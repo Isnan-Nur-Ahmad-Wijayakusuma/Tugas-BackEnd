@@ -1,0 +1,1 @@
+Untuk DBnya bernama 'db_penjualan'
